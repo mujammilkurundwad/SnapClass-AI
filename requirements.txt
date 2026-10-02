@@ -1,0 +1,18 @@
+streamlit
+pandas
+numpy
+
+# Face Recognization
+dlib-bin
+scikit-learn
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+supabase # for dataStore
+bcrypt   # for passWord save for hashing method
+
+segno # for Qr code generation
+pillow #  image for preprocessing
+
+  
+
