@@ -14,5 +14,7 @@ bcrypt   # for passWord save for hashing method
 segno # for Qr code generation
 pillow #  image for preprocessing
 
+librosa
+resemblyzer 
   
 
